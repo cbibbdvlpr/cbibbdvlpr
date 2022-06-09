@@ -2,7 +2,7 @@
 
 I'm Connor Bibb a Front End Web Developer, I Spend most of time coding projects.
 
-:mailbox: Reach me out!
+:mailbox: Reach out to me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Connor_Bibb-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BibbConnor)](https://twitter.com/BibbConnor) [![Linkedin Badge](https://img.shields.io/badge/-Connor_Bibb-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connor-bibb/) [![Mail Badge](https://img.shields.io/badge/-Connor_Bibb-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cbibbwork@gmail.com)
 
