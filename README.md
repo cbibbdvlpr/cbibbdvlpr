@@ -13,7 +13,7 @@ I'm Connor Bibb a Front End Web Developer, I Spend most of time coding projects.
 - 🤔 Always looking to learn new technologies.
 - 📫 How to reach me: cbibbwork@gmail.com.
 - 😄 Pronouns: Mort, cbibbdvlpr.
-- ⚡ Fun fact: I play a huge amount of video games and I Have served in the Royal Navy. :gb:
+- ⚡ Fun fact: I play a huge amount of video games and I Have served in the Royal Navy. 🇬🇧:
 
 #### Top Technologies
 
