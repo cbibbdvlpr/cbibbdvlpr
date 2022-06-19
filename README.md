@@ -44,10 +44,7 @@ I'm Connor Bibb a Front End Web Developer, I spend most of my time coding projec
 <!--START_SECTION:waka-->
 
 ```text
-HTML       2 hrs           ██████████████████▒░░░░░░   73.97 %
-CSS        27 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-JSON       15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+CSS   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
