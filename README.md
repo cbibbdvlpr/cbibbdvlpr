@@ -44,7 +44,7 @@ I'm Connor Bibb a Front End Web Developer, I spend most of my time coding projec
 <!--START_SECTION:waka-->
 
 ```text
-CSS   1 min           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
